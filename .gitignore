@@ -1,0 +1,8 @@
+/*ignore files related to eslint and prettier setup*/
+.eslintrc.json
+node_modules
+package*.json
+yarn.lock
+
+
+
